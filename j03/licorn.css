@@ -1,0 +1,63 @@
+html
+{
+	width: 100%;
+}
+
+body
+{
+	margin: auto;
+	width: 60%;
+}
+
+.blopy7
+{
+	width:100%;
+	height: auto;
+}
+
+body
+{
+	background-color: #EEEEEE;
+}
+
+footer
+{
+	padding-top: 0px;
+	padding-bottom: 30px;
+}
+
+
+.test
+{
+	margin-right: -0.75rem;
+	margin-left:-0.75rem;
+}
+
+
+.licorn_font
+{
+	font-family: courier_prime;
+	font-size: 100%;
+}
+
+.licorn_quote
+{
+	font-family: courier_prime;
+	font-style: italic;
+	font-size: 85%;
+}
+
+.test
+{
+	margin-right: -0.75rem;
+	margin-left: -0.75rem;
+}
+
+footer div p
+{
+	text-align: center;
+	font-size: 85%;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 10px;
+}
